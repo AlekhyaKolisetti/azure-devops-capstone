@@ -7,7 +7,6 @@ Azure Static Web Apps is a hosting service provided by Microsoft Azure to deploy
 It allows us to host websites without creating or managing virtual machines or servers. Azure provides hosting, HTTPS and integration with GitHub Actions for automated deployments.
 
 Use cases:
-
 Hosting portfolio websites.
 
 Hosting landing pages.
